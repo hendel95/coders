@@ -470,7 +470,7 @@
               "background-color": "@bg-value"
             },
             "H1": {
-              "color": "#616161"
+              "color": "#232323"
             }
           },
           "_name": "header2",
